@@ -5,6 +5,7 @@
     "name": "Moh. Rizky (morizkay)",
     "email": "morizkay@live.com"
   },
+  "publisher": "morizkay",
   "engines": {
     "vscode": "^1.52.0"
   },
