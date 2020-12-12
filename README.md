@@ -1,0 +1,1 @@
+# vscode-fullstack-extension-pack
