@@ -1,81 +1,64 @@
 {
-  "name": "fullstack-extension-pack",
-  "author": {
-    "url": "https://github.com/morizkay",
-    "name": "Moh. Rizky (morizkay)",
-    "email": "morizkay@live.com"
-  },
-  "publisher": "morizkay",
-  "engines": {
-    "vscode": "^1.52.0"
-  },
-  "version": "0.0.1",
-  "categories": [
-    "Extension Packs"
-  ],
-  "repository": {
-    "url": "https://github.com/morizkay/fullstack-extension-pack"
-  },
-  "description": "Morizkay's personal extension pack",
-  "displayName": "Fullstack Extension Pack",
-  "contributors": [
-    {
-      "url": "https://github.com/morizkay",
-      "name": "Moh. Rizky (morizkay)",
-      "email": "morizkay@live.com"
-    }
-  ],
-  "extensionPack": [
-    "amiralizadeh9480.laravel-extra-intellisense",
-    "atlassian.atlascode",
-    "austenc.laravel-blade-spacer",
-    "bmewburn.vscode-intelephense-client",
-    "christian-kohler.npm-intellisense",
-    "christian-kohler.path-intellisense",
-    "codezombiech.gitignore",
-    "codingyu.laravel-goto-view",
-    "CoenraadS.bracket-pair-colorizer-2",
-    "DavidAnson.vscode-markdownlint",
-    "dbaeumer.vscode-eslint",
-    "dsznajder.es7-react-js-snippets",
-    "eamodio.gitlens",
-    "EditorConfig.EditorConfig",
-    "eg2.vscode-npm-script",
-    "esbenp.prettier-vscode",
-    "felixfbecker.php-intellisense",
-    "formulahendry.auto-close-tag",
-    "formulahendry.auto-rename-tag",
-    "formulahendry.code-runner",
-    "GitHub.github-vscode-theme",
-    "GitHub.vscode-pull-request-github",
-    "grzegorzjudas.vscode-gitbuild",
-    "hakcorp.php-awesome-snippets",
-    "icrawl.discord-vscode",
-    "jaredkent.laserwave",
-    "johnpapa.vscode-peacock",
-    "leizongmin.node-module-intellisense",
-    "mechatroner.rainbow-csv",
-    "mikestead.dotenv",
-    "mkxml.vscode-filesize",
-    "mohsen1.prettify-json",
-    "ms-vscode.vscode-typescript-tslint-plugin",
-    "msjsdiag.debugger-for-chrome",
-    "naumovs.color-highlight",
-    "oderwat.indent-rainbow",
-    "onecentlin.laravel-blade",
-    "onecentlin.laravel5-snippets",
-    "PKief.material-icon-theme",
-    "redhat.vscode-yaml",
-    "richie5um2.vscode-sort-json",
-    "ritwickdey.LiveServer",
-    "ronvanderheijden.phpdoc-generator",
-    "ryannaddy.laravel-artisan",
-    "stef-k.laravel-goto-controller",
-    "VisualStudioExptTeam.vscodeintellicode",
-    "waderyan.gitblame",
-    "wix.vscode-import-cost",
-    "xabikos.JavaScriptSnippets",
-    "Youssef.viow",
-    "Zignd.html-css-class-completion"
-  ]
+	"name": "fullstack-extension-pack",
+	"author": {
+		"url": "https://github.com/morizkay",
+		"name": "Moh. Rizky (morizkay)",
+		"email": "morizkay@live.com"
+	},
+	"publisher": "morizkay",
+	"engines": {
+		"vscode": "^1.52.0"
+	},
+	"version": "0.0.1",
+	"categories": [
+		"Extension Packs"
+	],
+	"repository": {
+		"url": "https://github.com/morizkay/fullstack-extension-pack"
+	},
+	"description": "Morizkay's personal extension pack",
+	"displayName": "Fullstack Extension Pack",
+	"contributors": [
+		{
+			"url": "https://github.com/morizkay",
+			"name": "Moh. Rizky (morizkay)",
+			"email": "morizkay@live.com"
+		}
+	],
+	"extensionPack": [
+		"aaron-bond.better-comments",
+		"abusaidm.html-snippets",
+		"bradlc.vscode-tailwindcss        ",
+		"christian-kohler.npm-intellisense",
+		"christian-kohler.path-intellisense",
+		"CoenraadS.bracket-pair-colorizer",
+		"CoenraadS.bracket-pair-colorizer-2",
+		"dbaeumer.vscode-eslint",
+		"dsznajder.es7-react-js-snippets",
+		"eamodio.gitlens",
+		"ecmel.vscode-html-css",
+		"eg2.vscode-npm-script",
+		"esbenp.prettier-vscode",
+		"formulahendry.auto-close-tag",
+		"formulahendry.auto-complete-tag",
+		"formulahendry.auto-rename-tag",
+		"formulahendry.code-runner",
+		"GitHub.github-vscode-theme",
+		"GitHub.vscode-pull-request-github",
+		"golang.go",
+		"heybourn.headwind",
+		"leizongmin.node-module-intellisense",
+		"ms-vscode.vscode-typescript-tslint-plugin",
+		"naumovs.color-highlight",
+		"oderwat.indent-rainbow",
+		"PKief.material-icon-theme",
+		"richie5um2.vscode-sort-json",
+		"TabNine.tabnine-vscode",
+		"VisualStudioExptTeam.vscodeintellicode",
+		"vivaxy.vscode-conventional-commits",
+		"WallabyJs.quokka-vscode",
+		"wesbos.theme-cobalt2",
+		"xabikos.JavaScriptSnippets",
+		"Zignd.html-css-class-completion"
+	]
 }
