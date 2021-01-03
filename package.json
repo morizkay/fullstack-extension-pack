@@ -28,7 +28,7 @@
 	"extensionPack": [
 		"aaron-bond.better-comments",
 		"abusaidm.html-snippets",
-		"bradlc.vscode-tailwindcss        ",
+		"bradlc.vscode-tailwindcss",
 		"christian-kohler.npm-intellisense",
 		"christian-kohler.path-intellisense",
 		"CoenraadS.bracket-pair-colorizer",
